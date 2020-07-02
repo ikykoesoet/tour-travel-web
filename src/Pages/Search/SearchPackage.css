@@ -468,10 +468,6 @@ input:focus
         font-size: 52px;
     }
 
-    .searchpackage-container
-    {
-        
-    }
     .find_form {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
